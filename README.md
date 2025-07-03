@@ -3,7 +3,7 @@
 This project is a Power BI dashboard built to analyze dengue cases reported in Bangladesh. It helps identify trends based on gender, area, and house type.
 
 ## 📊 Dataset
-- Source: [Your source name, or say "Anonymous medical survey"]
+- Source: [ medical survey]
 - Contains patient demographics, area, outcome (0 = Negative, 1 = Dengue Positive)
 
 ## 💡 Key KPIs
@@ -38,4 +38,4 @@ This project is a Power BI dashboard built to analyze dengue cases reported in B
 
 ---
 
-Made with ❤️ by Moon
+Made with ❤️ by Rabaya Jalal
